@@ -14,7 +14,7 @@
 ### general game editor
 ## [ez-to-obj](https://github.com/Tiniifan/ez_to_obj) Author: Tiniifan
 ### puni puni model decrypter
-## [XtractQueryGUI (will be replaced by XQZ soon)](https://github.com/Tiniifan/ez_to_obj) Author: Tiniifan
-### puni puni model decrypter
+## [XtractQueryGUI (will be replaced by XQZ soon)](https://github.com/SuperTavor/AllModdingTools/blob/main/files/xqgui.zip) Author of original progran: onepiecefreak. GUI wrapper author: SuperTavor
+### decompiler for the XQ file format.
 
 
