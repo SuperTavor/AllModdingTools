@@ -1,4 +1,4 @@
-# Links to tools from the Yo-Kai Watch Modding tutorial
+# Resources and tools for YKW Modding
 
 ## [CfgBinEditor](https://github.com/Tiniifan/CfgBinEditor) Author: Tiniifan
 ### for general cfg.bin editing
@@ -16,7 +16,7 @@
 ### puni puni model decrypter
 ## [XtractQueryGUI (will be replaced by XQZ soon)](https://github.com/SuperTavor/AllModdingTools/blob/main/files/xqgui.zip) Author of original progran: onepiecefreak. GUI wrapper author: SuperTavor
 ### decompiler for the XQ file format.
-## [Yamba (Fork)](https://github.com/nobodyF34R/Yamba) Author of original progran: Woganog. Fork author: nobody_fear
+## [Yamba](https://github.com/YKW-Modding/Yamba) Author: Woganog
 ### tiny save editor that can change your position and map. Commonly used for debugging.
 ## [Level5ResourceEditor](https://github.com/onepiecefreak3/Level5RessourceEditor) Author: onepiecefreak
 ### edit the atlas mapping of XA files and their contents.
