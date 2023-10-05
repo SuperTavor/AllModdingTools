@@ -20,3 +20,5 @@
 ### tiny save editor that can change your position and map. Commonly used for debugging.
 ## [Level5ResourceEditor](https://github.com/onepiecefreak3/Level5RessourceEditor) Author: onepiecefreak
 ### edit the atlas mapping of XA files and their contents.
+## [VGAudio](https://github.com/Thealexbarney/VGAudio) Author: Thealexbarney
+### inject and edit sound files.
