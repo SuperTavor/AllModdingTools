@@ -22,3 +22,7 @@
 ### edit the atlas mapping of XA files and their contents.
 ## [VGAudio](https://github.com/Thealexbarney/VGAudio) Author: Thealexbarney
 ### inject and edit sound files.
+## [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.426-windows-x64-installer) Author: Microsoft
+### to run Kuriimu2
+
+
